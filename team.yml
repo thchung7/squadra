@@ -790,6 +790,15 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active
+      - name: Tiffany Chung
+    github:
+      username: thchung7
+      role: member
+    mailgun:
+      email: thchung@bu.edu
+      routes:
+        - contact@bostonhacks.io
+    status: active
 mailgun:
   routes:
     - name: contact@bostonhacks.io
